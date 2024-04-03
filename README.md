@@ -1,0 +1,2 @@
+# -Data-Warehouse-and-ETL-for-Energy-Monitoring-and-Consumption-Analysis
+The goal of this project is to develop and put into operation a reliable data warehouse system for gathering, processing, and analyzing data on energy usage and offer stakeholders a consistent platform to access, study, and derive useful insights from this data, facilitating a comprehensive understanding of energy consumption trends in the process
